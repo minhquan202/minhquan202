@@ -10,7 +10,7 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 
-<img width="20%" align='right' src="https://raw.githubusercontent.com/minhquan202/image/main/1.jpg">
+<img width="20%" align='right' src="https://raw.githubusercontent.com/minhquan202/image/refs/heads/main/1%20(1).jpg">
 
 
 <h2 align="left">
